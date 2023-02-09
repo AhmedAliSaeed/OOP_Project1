@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1664276443 source:d:\c++\library\main.cpp
+	<bits/stdc++.h>
+	"User.h"
+	"Book.h"
+
+1664194321 d:\c++\library\include\user.h
+	<bits/stdc++.h>
+
+1664366302 source:d:\c++\library\src\user.cpp
+	"User.h"
+
+1664366215 d:\c++\library\include\book.h
+	<bits/stdc++.h>
+	"User.h"
+
+1664292281 source:d:\c++\library\src\book.cpp
+	"Book.h"
+	"User.h"
+	<iostream>
+
+1664366215 source:d:\c++\library\src\booklist.cpp
+	"BookList.h"
+	<bits/stdc++.h>
+	"Book.h"
+
+1664366215 d:\c++\library\include\booklist.h
+	<bits/stdc++.h>
+	"Book.h"
+
